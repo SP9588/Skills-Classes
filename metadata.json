@@ -1,0 +1,7 @@
+{
+  "name": "Skills Academy Hasuwa - English, Computer & Vocal Training",
+  "description": "Modern education and skills centre near Shivrinayaran, Chhattisgarh offering English speaking, computer courses, and Bollywood/Hindi vocal training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
